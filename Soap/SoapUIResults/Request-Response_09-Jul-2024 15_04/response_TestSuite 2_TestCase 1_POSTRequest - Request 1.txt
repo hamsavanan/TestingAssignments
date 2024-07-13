@@ -1,0 +1,7 @@
+{
+  "id": "4849",
+  "student_name": "Dhansih",
+  "student_password": "Dhansih",
+  "student_email": "dhanish@gmail.com",
+  "student_gender": "male"
+}

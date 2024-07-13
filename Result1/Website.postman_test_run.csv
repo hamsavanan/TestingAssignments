@@ -1,0 +1,242 @@
+{
+	"id": "0dd40f0d-e901-4b3a-b3a6-2dca9eb035a1",
+	"name": "Website",
+	"timestamp": "2024-07-04T05:50:59.563Z",
+	"collection_id": "36734983-3325cf6f-bfab-4652-93f3-eb0bed259e9b",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 0,
+	"delay": 0,
+	"persist": true,
+	"status": "finished",
+	"startedAt": "2024-07-04T05:50:56.247Z",
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "62bafda4-158e-461d-b570-b79acdb0f167",
+			"name": "Homepage",
+			"url": "https://www.sathyabama.ac.in/academics/vision-and-mission",
+			"time": 265,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				265
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "f05ec9a0-d1bd-486d-8f01-3b1d2556ff42",
+			"name": "VissionPage",
+			"url": "https://www.sathyabama.ac.in/academics/vision-and-mission",
+			"time": 257,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				257
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "f0c4e19c-15a0-4997-ba12-de7f3dd4a0a9",
+			"name": "Values",
+			"url": "https://www.sathyabama.ac.in/core-values",
+			"time": 226,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				226
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "12c86dc7-5dc8-4f68-96e8-429764a8eac6",
+			"name": "Channcellor",
+			"url": "https://www.sathyabama.ac.in/about-us/chancellor-president",
+			"time": 208,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				208
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "f7fe5a0d-5914-4740-89ea-9258f8284d16",
+			"name": "ChanncellorVice",
+			"url": "https://www.sathyabama.ac.in/about-us/administration",
+			"time": 215,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				215
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "c9d81ce7-ea03-47b9-8887-b72955288810",
+			"name": "Admin",
+			"url": "https://www.sathyabama.ac.in/about-us/administration",
+			"time": 219,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				219
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "c8894bb0-2e08-49fe-be8f-e5982d358f71",
+			"name": "Evlovation",
+			"url": "https://www.sathyabama.ac.in/sathyabama_evolution",
+			"time": 222,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				222
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "8fa6da4e-8634-4ce2-8884-d3944dafd618",
+			"name": "committee",
+			"url": "https://www.sathyabama.ac.in/about-us/committee",
+			"time": 289,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				289
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "0b676856-968a-4cd0-9333-e090e604da9c",
+			"name": "accreditation-and-accolades",
+			"url": "https://www.sathyabama.ac.in/about-us/accreditation-and-accolades",
+			"time": 222,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				222
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "239714d3-aa61-4824-81f9-1debe70b8752",
+			"name": "Sustainable_Development",
+			"url": "https://www.sathyabama.ac.in/Sustainable_Development",
+			"time": 222,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				222
+			],
+			"allTests": [
+				{}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 2345,
+	"collection": {
+		"requests": [
+			{
+				"id": "62bafda4-158e-461d-b570-b79acdb0f167",
+				"method": "GET"
+			},
+			{
+				"id": "f05ec9a0-d1bd-486d-8f01-3b1d2556ff42",
+				"method": "GET"
+			},
+			{
+				"id": "f0c4e19c-15a0-4997-ba12-de7f3dd4a0a9",
+				"method": "GET"
+			},
+			{
+				"id": "12c86dc7-5dc8-4f68-96e8-429764a8eac6",
+				"method": "GET"
+			},
+			{
+				"id": "f7fe5a0d-5914-4740-89ea-9258f8284d16",
+				"method": "GET"
+			},
+			{
+				"id": "c9d81ce7-ea03-47b9-8887-b72955288810",
+				"method": "GET"
+			},
+			{
+				"id": "c8894bb0-2e08-49fe-be8f-e5982d358f71",
+				"method": "GET"
+			},
+			{
+				"id": "8fa6da4e-8634-4ce2-8884-d3944dafd618",
+				"method": "GET"
+			},
+			{
+				"id": "0b676856-968a-4cd0-9333-e090e604da9c",
+				"method": "GET"
+			},
+			{
+				"id": "239714d3-aa61-4824-81f9-1debe70b8752",
+				"method": "GET"
+			}
+		]
+	}
+}

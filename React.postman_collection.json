@@ -1,0 +1,152 @@
+{
+	"info": {
+		"_postman_id": "381e40e2-24e3-4069-a86e-cfb504fc1dd3",
+		"name": "React",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "36734983"
+	},
+	"item": [
+		{
+			"name": "student",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8888/student",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8888",
+					"path": [
+						"student"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "teacher",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": " {\r\n        \"id\": \"1\",\r\n        \"teacher_name\": \"PanchaSheel\",\r\n        \"teacher_password\": \"PanchaSheel\",\r\n        \"teacher_email\": \"panchasheel@gmail.com\",\r\n        \"teacher_gender\": \"male\"\r\n    }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8888{{endpoint}}",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8888{{endpoint}}"
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "voucher",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n        \"id\": \"a505\",\r\n        \"voucher_number\": \"789\"\r\n    }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8888/voucher/a505",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8888",
+					"path": [
+						"voucher",
+						"a505"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "delete",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8888/tests/db75",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8888",
+					"path": [
+						"tests",
+						"db75"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://www.sathyabama.ac.in/",
+			"request": {
+				"auth": {
+					"type": "apikey"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://www.sathyabama.ac.in/",
+					"protocol": "https",
+					"host": [
+						"www",
+						"sathyabama",
+						"ac",
+						"in"
+					],
+					"path": [
+						""
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"auth": {
+		"type": "apikey"
+	},
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"packages": {},
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"packages": {},
+				"exec": [
+					""
+				]
+			}
+		}
+	]
+}

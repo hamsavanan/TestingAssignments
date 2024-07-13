@@ -1,0 +1,7 @@
+"Test Suite","Test Case","Test Step","Step Type","Step Status","Result message","Execution Date"
+"Library","Reporting_Utility","GenerateCSVReport","groovy","OK","","09-Jul-2024 15_04",
+"TestSuite 2","TestCase 1","GET","restrequest","OK","","09-Jul-2024 15_04",
+"TestSuite 2","TestCase 1","POSTRequest - Request 1","restrequest","OK","","09-Jul-2024 15_04",
+"TestSuite 2","TestCase 1","PUTRequest - Request 1","restrequest","OK","","09-Jul-2024 15_04",
+"TestSuite 2","TestCase 1","PATCHRequest - Request 1","restrequest","OK","","09-Jul-2024 15_04",
+"TestSuite 2","TestCase 1","Delete - Request 1","restrequest","OK","","09-Jul-2024 15_04",

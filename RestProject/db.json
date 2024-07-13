@@ -1,0 +1,453 @@
+{
+  "admin": [
+    {
+      "id": "c045",
+      "admin_name": "Admin2",
+      "admin_password": "12345678",
+      "admin_email": "admin2@gmail.com",
+      "admin_gender": "female"
+    },
+    {
+      "id": "00bc",
+      "admin_name": "admin3",
+      "admin_password": "1234567890",
+      "admin_email": "admin3@gmail.com",
+      "admin_gender": "other"
+    },
+    {
+      "id": "a6bc",
+      "userId": "{{emailId}}",
+      "userPass": "aminn"
+    },
+    {
+      "id": "403f",
+      "userId": "admin@gmail.com",
+      "userPass": "aminn"
+    },
+    {
+      "id": "837b",
+      "userId": "admin@gmail.com",
+      "userPass": "aminn"
+    },
+    {
+      "id": "8ecd",
+      "userId": "admin@gmail.com",
+      "userPass": "aminn"
+    },
+    {
+      "id": "262c",
+      "userId": "admin@gmail.com",
+      "userPass": "aminn"
+    },
+    {
+      "id": "b187",
+      "userId": "admin@gmail.com",
+      "userPass": "aminn"
+    },
+    {
+      "id": "b685",
+      "userId": "admin@gmail.com",
+      "userPass": "aminn"
+    },
+    {
+      "id": "b2a7",
+      "userId": "admin@gmail.com",
+      "userPass": "aminn"
+    },
+    {
+      "id": "b93d",
+      "userId": "admin@gmail.com",
+      "userPass": "admin@123"
+    },
+    {
+      "id": "b1f0",
+      "userId": "hr@gmail.com",
+      "userPass": "hr@123"
+    },
+    {
+      "id": "361e",
+      "userId": "user@gmail.com",
+      "userPass": "user@123"
+    },
+    {
+      "id": "bd3b",
+      "userId": "admin@gmail.com",
+      "userPass": "aminn"
+    },
+    {
+      "id": "ed92",
+      "userId": "admin@gmail.com",
+      "userPass": "aminn"
+    },
+    {
+      "id": "97ec",
+      "userId": "admin@gmail.com",
+      "userPass": "aminn"
+    },
+    {
+      "id": "8379",
+      "userId": "admin@gmail.com",
+      "userPass": "aminn"
+    },
+    {
+      "id": "46d3"
+    },
+    {
+      "id": "1",
+      "admin_name": "Dhansih",
+      "admin_password": "admin",
+      "admin_email": "admin@gmail.com",
+      "admin_gender": "male"
+    }
+  ],
+  "student": [
+    {
+      "id": "1",
+      "student_name": "Dhansih",
+      "student_password": "Dhansih",
+      "student_email": "dhanish@gmail.com",
+      "student_gender": "male",
+      "results": [
+        {
+          "examName": "Java",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "student_name": "Hamsavanan",
+      "student_password": "Dhansih",
+      "student_email": "hamsavanan@gmail.com",
+      "student_gender": "male",
+      "results": [
+        {
+          "examName": "Python",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "student_name": "Gokul",
+      "student_password": "Dhansih",
+      "student_email": "gokul@gmail.com",
+      "student_gender": "male",
+      "results": [
+        {
+          "examName": "Python",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "student_name": "Karuppu",
+      "student_password": "Dhansih",
+      "student_email": "karuppu@gmail.com",
+      "student_gender": "male",
+      "results": [
+        {
+          "examName": "Java",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "student_name": "Dhanish Kumar",
+      "student_password": "dhansin1234",
+      "student_email": "dhanishkumar3003@gmail.corn",
+      "student_gender": "male",
+      "results": [
+        {
+          "examName": "JAVA",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": "808f",
+      "student_name": "Dhanish Kumar",
+      "student_password": "12345678",
+      "student_email": "dhanishkumar3003@gmail.comic",
+      "student_gender": "male",
+      "results": [
+        {
+          "examName": "Python",
+          "score": 6
+        },
+        {
+          "examName": "Python",
+          "score": 1
+        },
+        {
+          "examName": "Python",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": "f368",
+      "student_name": "kata",
+      "student_password": "12345678",
+      "student_email": "kata@gmail.com",
+      "student_gender": "male",
+      "results": [
+        {
+          "examName": "JAVA",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": "b1a4",
+      "student_name": "Karuppu",
+      "student_password": "12345678",
+      "student_email": "karrupuiyya@gmail.com",
+      "student_gender": "male",
+      "results": [
+        {
+          "examName": "JAVA",
+          "score": 4
+        },
+        {
+          "examName": "Java",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": "ae06",
+      "student_name": "Karuppiah",
+      "name": "Karuppiah",
+      "job": "Tester"
+    }
+  ],
+  "teacher": [
+    {
+      "id": "1",
+      "teacher_name": "PanchaSheel",
+      "teacher_password": "PanchaSheel",
+      "teacher_email": "panchasheel@gmail.com",
+      "teacher_gender": "male"
+    },
+    {
+      "id": "2",
+      "teacher_name": "Kishore",
+      "teacher_password": "Kishore",
+      "teacher_email": "Kishore@gmail.com",
+      "teacher_gender": "male"
+    },
+    {
+      "id": "3",
+      "teacher_name": "Prag",
+      "teacher_password": "Prag",
+      "teacher_email": "prag@gmail.com",
+      "teacher_gender": "male"
+    },
+    {
+      "id": "683a",
+      "teacher_name": "Dhanish Kumar",
+      "teacher_password": "12345678",
+      "teacher_email": "dhanishkumar3003@gmail.com",
+      "teacher_gender": "male"
+    },
+    {
+      "id": "4f21",
+      "teacher_name": "Dhanish Kumar",
+      "teacher_password": "12345678",
+      "teacher_email": "dhanishkumar3003@gmail.concert",
+      "teacher_gender": "male"
+    },
+    {
+      "id": "0a12",
+      "teacher_name": "jaya",
+      "teacher_password": "12345678",
+      "teacher_email": "jaya@gmail.com",
+      "teacher_gender": "female"
+    },
+    {
+      "id": "6f07",
+      "teacher_name": "parag",
+      "teacher_password": "12345678",
+      "teacher_email": "para@gmail.com",
+      "teacher_gender": "male"
+    },
+    {
+      "id": "b934",
+      "teacher_name": "parag2",
+      "teacher_password": "123456789",
+      "teacher_email": "para2@gmail.com",
+      "teacher_gender": "male"
+    },
+    {
+      "id": "7849",
+      "teacher_name": "parag3",
+      "teacher_password": "12345678",
+      "teacher_email": "parag3@gmail.com",
+      "teacher_gender": "male"
+    },
+    {
+      "id": "7e7a"
+    },
+    {
+      "id": "1",
+      "teacher_name": "PanchaSheel",
+      "teacher_password": "PanchaSheel",
+      "teacher_email": "panchasheel@gmail.com",
+      "teacher_gender": "male"
+    },
+    {
+      "id": "1",
+      "teacher_name": "PanchaSheel",
+      "teacher_password": "PanchaSheel",
+      "teacher_email": "panchasheel@gmail.com",
+      "teacher_gender": "male"
+    },
+    {
+      "id": "1",
+      "teacher_name": "PanchaSheel",
+      "teacher_password": "PanchaSheel",
+      "teacher_email": "panchasheel@gmail.com",
+      "teacher_gender": "male"
+    }
+  ],
+  "voucher": [
+    {
+      "id": "1",
+      "voucher_number": 12345
+    },
+    {
+      "id": "2",
+      "voucher_number": 23456
+    },
+    {
+      "id": "3",
+      "voucher_number": "789"
+    },
+    {
+      "id": "a505",
+      "voucher_number": "789"
+    }
+  ],
+  "tests": [
+    {
+      "id": "ef56",
+      "examId": "2",
+      "examName": "Python",
+      "questions": [
+        {
+          "questionId": "1",
+          "question": "What is the keyword used to define a function in Python?",
+          "options": [
+            "function",
+            "def",
+            "fun",
+            "define"
+          ],
+          "correctAnswer": "def"
+        },
+        {
+          "questionId": "2",
+          "question": "Which of the following is a mutable data type in Python?",
+          "options": [
+            "tuple",
+            "list",
+            "string",
+            "int"
+          ],
+          "correctAnswer": "list"
+        },
+        {
+          "questionId": "3",
+          "question": "What does the 'len()' function do in Python?",
+          "options": [
+            "Returns the length of an object",
+            "Converts an object to a string",
+            "Checks if an object is callable",
+            "Returns the type of an object"
+          ],
+          "correctAnswer": "Returns the length of an object"
+        },
+        {
+          "questionId": "4",
+          "question": "Which statement is used to handle exceptions in Python?",
+          "options": [
+            "catch",
+            "handle",
+            "except",
+            "try"
+          ],
+          "correctAnswer": "except"
+        },
+        {
+          "questionId": "5",
+          "question": "What is the output of 'print(2 ** 3)' in Python?",
+          "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+          ],
+          "correctAnswer": "8"
+        },
+        {
+          "questionId": "6",
+          "question": "Which module in Python is used to work with regular expressions?",
+          "options": [
+            "regex",
+            "pyregex",
+            "re",
+            "regexp"
+          ],
+          "correctAnswer": "re"
+        },
+        {
+          "questionId": "7",
+          "question": "What does the 'append()' method do in a list?",
+          "options": [
+            "Removes the last item",
+            "Sorts the list",
+            "Adds an item to the end",
+            "Inserts an item at the beginning"
+          ],
+          "correctAnswer": "Adds an item to the end"
+        },
+        {
+          "questionId": "8",
+          "question": "What is the correct way to start a comment in Python?",
+          "options": [
+            "/*",
+            "//",
+            "<!--",
+            "#"
+          ],
+          "correctAnswer": "#"
+        },
+        {
+          "questionId": "9",
+          "question": "Which of the following is used to create an empty set in Python?",
+          "options": [
+            "{}",
+            "set()",
+            "[]",
+            "empty()"
+          ],
+          "correctAnswer": "set()"
+        },
+        {
+          "questionId": "10",
+          "question": "What is the output of 'print(type(42))' in Python?",
+          "options": [
+            "<class 'str'>",
+            "<class 'float'>",
+            "<class 'int'>",
+            "<class 'bool'>"
+          ],
+          "correctAnswer": "<class 'int'>"
+        }
+      ]
+    }
+  ]
+}

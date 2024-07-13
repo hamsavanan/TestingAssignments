@@ -1,0 +1,124 @@
+[
+  {
+    "id": "1",
+    "student_name": "Dhansih",
+    "student_password": "Dhansih",
+    "student_email": "dhanish@gmail.com",
+    "student_gender": "male",
+    "results": [
+      {
+        "examName": "Java",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "student_name": "Hamsavanan",
+    "student_password": "Dhansih",
+    "student_email": "hamsavanan@gmail.com",
+    "student_gender": "male",
+    "results": [
+      {
+        "examName": "Python",
+        "score": 5
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "student_name": "Gokul",
+    "student_password": "Dhansih",
+    "student_email": "gokul@gmail.com",
+    "student_gender": "male",
+    "results": [
+      {
+        "examName": "Python",
+        "score": 3
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "student_name": "Karuppu",
+    "student_password": "Dhansih",
+    "student_email": "karuppu@gmail.com",
+    "student_gender": "male",
+    "results": [
+      {
+        "examName": "Java",
+        "score": 4
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "student_name": "Dhanish Kumar",
+    "student_password": "dhansin1234",
+    "student_email": "dhanishkumar3003@gmail.corn",
+    "student_gender": "male",
+    "results": [
+      {
+        "examName": "JAVA",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "id": "808f",
+    "student_name": "Dhanish Kumar",
+    "student_password": "12345678",
+    "student_email": "dhanishkumar3003@gmail.comic",
+    "student_gender": "male",
+    "results": [
+      {
+        "examName": "Python",
+        "score": 6
+      },
+      {
+        "examName": "Python",
+        "score": 1
+      },
+      {
+        "examName": "Python",
+        "score": 1
+      }
+    ]
+  },
+  {
+    "id": "f368",
+    "student_name": "kata",
+    "student_password": "12345678",
+    "student_email": "kata@gmail.com",
+    "student_gender": "male",
+    "results": [
+      {
+        "examName": "JAVA",
+        "score": 2
+      }
+    ]
+  },
+  {
+    "id": "b1a4",
+    "student_name": "Karuppu",
+    "student_password": "12345678",
+    "student_email": "karrupuiyya@gmail.com",
+    "student_gender": "male",
+    "results": [
+      {
+        "examName": "JAVA",
+        "score": 4
+      },
+      {
+        "examName": "Java",
+        "score": 3
+      }
+    ]
+  },
+  {
+    "id": "ae06",
+    "student_name": "Karuppiah",
+    "name": "Karuppiah",
+    "job": "Tester"
+  }
+]
